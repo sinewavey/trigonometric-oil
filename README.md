@@ -65,7 +65,7 @@ It is **not** compatible with:
 
 * Krastor, Linver, and Raiguard for some modified [Krastorio 2](https://mods.factorio.com/mod/Krastorio2)† assets
 * [GotLag](https://mods.factorio.com/user/GotLag) for their [Flare Stack mod](https://mods.factorio.com/mod/Flare%20Stack)‡ assets and code
-* [Shorty](https://mods.factorio.com/user/Schorty) for their [Air Filtering mod](https://mods.factorio.com/mod/air-filtering)+ assets
+* [Schorty](https://mods.factorio.com/user/Schorty) for their [Air Filtering mod](https://mods.factorio.com/mod/air-filtering)+ assets
 * [Brevven](https://mods.factorio.com/user/brevven)‡ for some minor data utils to re-add productivity modules to recipes
 
 I would be happy to re-code and rig sprites if they are not OK with this. Thank you to all parties for generously releasing assets to be used and modified!
