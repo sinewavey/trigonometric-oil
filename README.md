@@ -31,6 +31,7 @@ If you would like to report a bug, offer suggestions on balancing, or contact me
 
 # Roadmap
 
+* More uses for intermediates, such as napalm flamethrower ammunition
 * Improved icon graphics, and custom graphics for the vacuum pump
 * Pending balance: a focused asphalt recipe to avoid wasteful production of other oils
 * Special pipes for acidic fluids (if possible in engine)
@@ -42,7 +43,9 @@ If you would like to report a bug, offer suggestions on balancing, or contact me
 # Compatibility
 
 Trigonometric Oil is compatible with:
+
 * [AAI Industry](https://mods.factorio.com/mod/aai-industry/discussion)
+* [Asphalt Paving](https://mods.factorio.com/mod/AsphaltPaving)
 * [BZ Lead](https://mods.factorio.com/mod/bzlead)
 * [Cargo Ships](https://mods.factorio.com/mod/cargo-ships)
 * [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding)
@@ -52,14 +55,15 @@ Trigonometric Oil is compatible with:
 
 It is **not** compatible with:
 
-* Space Exploration, Angel's Petrochem, Bob's Intermediates, Krastorio 2, Industrial Revolution, pYmods, etc
-  * These include their own changes to oil processing and many other addressed changes
 * [BZ Gas](https://mods.factorio.com/mod/bzgas) 
   * Planned compatibility in the future
+* Space Exploration, Angel's Petrochem, Bob's Intermediates, Krastorio 2, Industrial Revolution, pYmods, etc
+  * These include their own changes to oil processing and many other addressed changes
+
 
 ### Attributions
 
-* [Krastor, Linver, and Raiguard](https://mods.factorio.com/mod/Krastorio2)† for some modified Krastorio 2 assets
+* Krastor, Linver, and Raiguard for some modified [Krastorio 2](https://mods.factorio.com/mod/Krastorio2)† assets
 * [GotLag](https://mods.factorio.com/user/GotLag) for their [Flare Stack mod](https://mods.factorio.com/mod/Flare%20Stack)‡ assets and code
 * [Shorty](https://mods.factorio.com/user/Schorty) for their [Air Filtering mod](https://mods.factorio.com/mod/air-filtering)+ assets
 * [Brevven](https://mods.factorio.com/user/brevven)‡ for some minor data utils to re-add productivity modules to recipes
