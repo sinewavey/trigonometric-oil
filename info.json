@@ -1,0 +1,31 @@
+{
+  "name": "trigonometric-oil",
+  "version": "2.1.1",
+  "title": "Trigonometric Oil",
+  "author": "sinewavey",
+  "contact": "on discord: sinewave#6423",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "? base",
+    "? aai-industry",
+    "? AsphaltPaving",
+    "? bzlead",
+    "? cargo-ships",
+    "? Fracking",
+    "! 5dim_automation",
+    "! angelspetrochem",
+    "! bobassembly",
+    "! bobplates",
+    "! Flare Stack",
+    "! IndustrialRevolution3",
+    "! James-Oil-Processing",
+    "! Krastorio2",
+    "! pypetroleumhandling",
+    "! space-exploration",
+    "! TurmOil",
+    "! Wood_Gasification"
+
+],
+
+  "description": "This mod adjusts oil production chains to be slightly more involved at every step, without subjecting you to total intermediate chemistry hell. Includes a custom version of flare stack by GotLag."
+}

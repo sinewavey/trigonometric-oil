@@ -1,0 +1,55 @@
+Version: 2.1.0
+Date: 10. 03. 2023
+  Features:
+    - New tech: Liquid fuels, requiring flammables and advanced oil processing which unlocks:
+    - New building: Petrochemical plant, a specialized plant for fuel production and cracking
+    - New building: Gas power station
+    - New building: Gas furnace
+    - Liquid fuel: a burnable fuel with better fuel value. You should use it, but can technically use any fluid with mixed results
+  Adjustments:
+    - Solid rocket fuel now uses liquid fuel instead of light gasoil
+    - Liquid fuel is now a tech prerequisite for rocket fuel
+    - Migration added. Please report any issues / broken saves / permalocked recipes, etc.
+    - Coal liquefaction was re-introduced with version 2.0.0 but was undocumented
+  Minor:
+    - Heavy oil graphics updated, as well as dependent graphics like oil processing
+    - Polyethylene grapics updated
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 06. 03. 2023
+  Features:
+    - Everything back into vanilla things for future compatibility
+    - Unfortunately this will be non backwards-compatibile as the mod has been out for such a short time, with few users. I'm sorry if this breaks your save
+    - A migration rewrite is planned to address this and previous broken saves in a better way
+  Compatibility:
+    - AAI Industry should be safe now
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 06. 03. 2023
+  Features:
+    - Vacuum pumps are now a separate class of machines, with art from the Air Filtering mod
+    - Reordering of items in crafting menu to match recipe flow better
+    - Productivity modules allowed in recipes
+  Background:
+    - Vanilla heavy/light/pet barelling recipes hidden correctly from autogeneration
+    - Technologies have been integrated to vanilla techs instead
+    - A lot of general code cleanup
+    - Minor compatibility changes for Fracking, Cargo Ships, BZ Lead
+    - Migrations from previous versions
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 04. 03. 2023
+  Code cleanup:
+    - Vanilla heavy/light/pet barelling recipes hidden
+    - Sulfuric acid didn't need to be reimplemented, just the icon changed
+    - Sorting order of recipes and technologies adjusted 
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 04. 03. 2023
+  Bugfixes:
+    - Pumpjack recipe was re-added to basic oil tech as the player needs this to proceed.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 03. 03. 2023
+  Major Features:
+    - Initial release.
