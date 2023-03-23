@@ -32,7 +32,7 @@ coalLiquefaction.ingredients = {
     type = "item"
   },
   {
-    amount = 25,
+    amount = 20,
     name = "heavy-oil",
     type = "fluid"
   },
@@ -51,12 +51,12 @@ coalLiquefaction.results = {
   },
   {
     amount = 1,
-    probability = 0.10,
+    probability = 0.15,
     name = "solid-fuel",
     type = "item"
   },
   {
-    amount = 15,
+    amount = 25,
     fluidbox_index = 1,
     name = "heavy-oil",
     type = "fluid"
@@ -90,7 +90,7 @@ lubricant.subgroup = "chemicals"
 plastic.category = "crafting-with-fluid"
 plastic.order = "g[plastic]-b"
 plastic.ingredients = {{amount = 25, name = "to-polyethylene", type = "fluid"}}
-plastic.results = {{amount = , name = "plastic-bar", type = "item"}}
+plastic.results = {{amount = 5, name = "plastic-bar", type = "item"}}
 plastic.subgroup = "chemicals"
 
 sulfur.ingredients = {
@@ -299,7 +299,7 @@ local petcoke = {
     },
     icon_size = 64, icon_mipmaps = 4,
     ingredients = {
-        {type = "fluid", name = "heavy-oil", amount = 15}, 
+        {type = "fluid", name = "heavy-oil", amount = 10}, 
         {type = "item", name = "to-asphalt", amount = 3}
     },
     name = "to-petcoke",

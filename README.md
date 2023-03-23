@@ -44,14 +44,14 @@ If you would like to report a bug, offer suggestions on balancing, or contact me
 
 Trigonometric Oil is compatible with:
 
-* [AAI Industry](https://mods.factorio.com/mod/aai-industry/discussion)
+* [AAI Industry](https://mods.factorio.com/mod/aai-industry)
 * [Asphalt Paving](https://mods.factorio.com/mod/AsphaltPaving)
 * [BZ Lead](https://mods.factorio.com/mod/bzlead)
 * [Cargo Ships](https://mods.factorio.com/mod/cargo-ships)
 * [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding)
 * [Fracking](https://mods.factorio.com/mod/Fracking)
   * FF and Fracking *may not be compatible together, however*
-* [Wreckage Pollution](https://mods.factorio.com/mod/wreckage-pollution/changelog) 
+* [Wreckage Pollution](https://mods.factorio.com/mod/wreckage-pollution) 
 
 It is **not** compatible with:
 

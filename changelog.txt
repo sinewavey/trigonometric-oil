@@ -1,3 +1,8 @@
+Version: 2.1.1
+Date: 23. 03. 2023
+  Adjustments:
+    - Rebalancing of heavy and light oil cracking and plastic production to produce much more. Early game was much more complicated than expected. WIP.
+---------------------------------------------------------------------------------------------------
 Version: 2.1.0
 Date: 10. 03. 2023
   Features:
